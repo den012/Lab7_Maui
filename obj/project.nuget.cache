@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s4j9Rr2OE3Q=",
+  "dgSpecHash": "7Q4J6cGJ950=",
   "success": true,
-  "projectFilePath": "/Users/denisblaga/Desktop/net/appMob/appMob/appMob.csproj",
+  "projectFilePath": "/Users/denisblaga/Desktop/net/Lab7_Maui/appMob.csproj",
   "expectedPackageFiles": [
     "/Users/denisblaga/.nuget/packages/googlegson/2.10.1.4/googlegson.2.10.1.4.nupkg.sha512",
     "/Users/denisblaga/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",

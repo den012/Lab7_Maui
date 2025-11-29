@@ -24748,11 +24748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/denisblaga/Desktop/net/appMob/appMob/appMob.csproj",
+      "projectUniqueName": "/Users/denisblaga/Desktop/net/Lab7_Maui/appMob.csproj",
       "projectName": "appMob",
-      "projectPath": "/Users/denisblaga/Desktop/net/appMob/appMob/appMob.csproj",
+      "projectPath": "/Users/denisblaga/Desktop/net/Lab7_Maui/appMob.csproj",
       "packagesPath": "/Users/denisblaga/.nuget/packages/",
-      "outputPath": "/Users/denisblaga/Desktop/net/appMob/appMob/obj/",
+      "outputPath": "/Users/denisblaga/Desktop/net/Lab7_Maui/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
