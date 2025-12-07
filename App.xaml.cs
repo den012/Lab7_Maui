@@ -1,5 +1,5 @@
 ﻿namespace appMob;
-
+//
 public partial class App : Application
 {
     static ShoppingListDatabase database;
